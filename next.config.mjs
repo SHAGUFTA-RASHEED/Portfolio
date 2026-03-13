@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: 'export',
-  basePath: '/https://shagufta-rasheed.github.io/Portfolio/',
+  basePath: '/Portfolio',
   typescript: {
     ignoreBuildErrors: true,
     
