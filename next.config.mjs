@@ -1,7 +1,5 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  
-  basePath: '/Portfolio',
   trailingSlash: true, 
   typescript: {
     ignoreBuildErrors: true,
